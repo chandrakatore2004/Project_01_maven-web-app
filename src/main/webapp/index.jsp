@@ -1,10 +1,10 @@
 <html>
 <body>
-<h1><font color='red'> Welcome to Ashok IT - Software Training Institute <font></h1>
+<h1><font color='red'> Welcome to DevOPS Testing Project <font></h1>
 
-<a href="www.ashokit.in">Click Here To See Ashok IT Training Schedules</a>
+<a href="www. DevOPSTesting.in">Click Here To See  DevOPS Testing Schedules</a>
   
-  <h2> Call Us : +91-9985396677  </h2>
+  <h2> Call Us : +91-9999999  </h2>
   
   <h3> Our Ofc Location : Ameerpet, Hyderbad </h3>
 
