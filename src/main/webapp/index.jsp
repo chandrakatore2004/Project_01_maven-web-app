@@ -4,7 +4,7 @@
   <title>DevOPS Testing Project</title>
   <style>
     h1 {
-      color: red;
+      color: blue;
     }
   </style>
 </head>
