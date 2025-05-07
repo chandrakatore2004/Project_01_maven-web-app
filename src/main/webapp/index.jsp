@@ -6,7 +6,7 @@
   
   <h2> Call Us : +91-9999999  </h2>
   
-  <h3> Our Ofc Location : Ameerpet, Hyderbad </h3>
+  <h3> Our Ofc Location : K,Nagar, Pune </h3>
 
 </body>
 </html>
