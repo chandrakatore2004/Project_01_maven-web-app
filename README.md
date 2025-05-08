@@ -1,1 +1,1 @@
-## After deployment done to test open browser and access the http://LoadBalancer/maven-web-app/
+## After deployment is complete, open the browser and access the application http://LoadBalancer/maven-web-app/
